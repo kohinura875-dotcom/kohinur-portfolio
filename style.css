@@ -164,3 +164,15 @@ footer p {
         padding: 60px 7%;
     }
 }
+
+
+
+@media (max-width: 700px) {
+    ...
+}
+
+/* Projects Section */
+
+.projects-container {
+    ...
+}
